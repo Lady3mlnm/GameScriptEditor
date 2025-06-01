@@ -1,0 +1,6 @@
+# Default ignored files
+/build/
+/dist/
+/images other (not used in app directly)/
+/settings (not used in app directly)/
+/working notes/
