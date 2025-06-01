@@ -1,4 +1,4 @@
-GameScriptEditor is a specialized text editor for working with scripts (for example, game scripts). The editor has several unique features that simplify working with scripts that are not available in usual text editors.
+GameScriptEditor is a specialized text editor for working with scripts _(for example, game scripts)_. The editor has several unique features that simplify working with scripts that are not available in usual text editors.
 
 The main feature of the editor is the preview window, which allows you to see in real time how original text will be transformed into game text according to set of rules. The editor greatly simplifies the work of text alignment.
 
@@ -6,9 +6,10 @@ In this version, the initial state of the editor is customized and text transfor
 
 The editor has English and Russian interfaces.
 
-[screenshot of the application](description and scheme/screenshot GSE v1_0.png)
+Screenshot of the application and illustration of some ways of tags transformations _(not all)_ superimposed on it:
+![screenshot of the application](description%20and%20scheme/screenshot%20GSE%20v1_0.png)
 
-[screenshot of the application with several arrows that illustrate some ways of transformation](description and scheme/screenshot GSE v1_0 with arrows.png)
+![screenshot of the application with several arrows that illustrate some ways of transformation](description%20and%20scheme/screenshot%20GSE%20v1_0%20with%20arrows.png)
 
 If the program starts working slowly, try to disable the marker field in the preview window and the character counter.
 
